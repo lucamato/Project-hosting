@@ -7,5 +7,6 @@ head .title {
 .keytabs {
   color : orange;
   font-family: Calibri;
+  font-size: 30px
   background : white;
 }
