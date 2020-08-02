@@ -1,17 +1,11 @@
 head .title {
   color : dodgerblue;
-  font: : Calibri;
+  font-family: : Calibri;
   background: white;
 }
 
 .keytabs {
   color : orange;
-  font : Calibri;
+  font-family: Calibri;
   background : white;
-}
-
-main section h2 ul li {
-    color : gold;
-    margin: 0;
-    padding: 0;
 }
