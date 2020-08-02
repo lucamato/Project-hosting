@@ -10,3 +10,9 @@ td {
   font-size: 30px;
   background : white;
 }
+
+h2 {
+  font-weight:normal;
+  font-family:Calibri;
+  color:AliceBlue;
+}
