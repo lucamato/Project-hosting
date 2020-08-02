@@ -1,12 +1,12 @@
-head .title {
+h1 {
   color : dodgerblue;
   font-family: : Calibri;
   background: white;
 }
 
-.keytabs {
+td {
   color : orange;
   font-family: Calibri;
-  font-size: 30px
+  font-size: 30px;
   background : white;
 }
