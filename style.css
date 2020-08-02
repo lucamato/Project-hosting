@@ -10,16 +10,18 @@ h1 {
 }
 
 td {
-  color : orange;
+  background-color: rgb(234,231,220);
+  color:rgb(43,56,86);
   font-family: Calibri;
+  font-weight: bold;
   text-align:center;
   font-size: 30px;
-  background-color: white;
 }
 
 h2 {
   font-weight:normal;
   font-family:Calibri;
+  font-size:18px;
   color:orange;
   background-color:blue;
 }
