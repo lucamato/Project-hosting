@@ -7,6 +7,7 @@ h1 {
 td {
   color : orange;
   font-family: Calibri;
+  text-align:center;
   font-size: 30px;
   background : white;
 }
@@ -16,10 +17,4 @@ h2 {
   font-family:Calibri;
   color:orange;
   background:white;
-}
-
-.tabs {
-  text-align:center;
-  color:black
-  font-family: Calibri;
 }
