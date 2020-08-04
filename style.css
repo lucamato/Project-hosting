@@ -3,6 +3,10 @@ head, body, html {
   color:rgb(43,56,86);
 }
 
+head {
+  background-image: url(https://lartediguardarelarte.altervista.org/wp-content/uploads/2018/11/tetto_cappella_palatina.jpg);
+}
+
 h1 {
   color : rgb(43,56,86);
   font-family: : Calibri;
