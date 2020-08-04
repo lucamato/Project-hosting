@@ -7,7 +7,7 @@
   background-image: url(https://lartediguardarelarte.altervista.org/wp-content/uploads/2018/11/tetto_cappella_palatina.jpg);
 }
 
-ul li { display:inline;}
+ul, li { display:inline;}
 
 td, h3 {
   background-color: rgb(234,231,220);
