@@ -9,8 +9,7 @@
 
 ul, li { display:inline;}
 
-td, h3 {
-  background-color: rgb(234,231,220);
+h3 {
   color:rgb(43,56,86);
   font-family: Calibri;
   font-weight: bold;
