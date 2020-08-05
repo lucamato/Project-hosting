@@ -7,13 +7,13 @@
   background-image: url(https://lartediguardarelarte.altervista.org/wp-content/uploads/2018/11/cappella_palatina_30_pannello.jpg);
   height: 400px;
   background-position: center;
+  color: rgb(255,255,240);
+  font-family: Calibri;
+  font-size: 18px;
 }
 
 .navbar {
   display: inline;
-  color: rgb(255,255,240);
-  font-family: Calibri;
-  font-size: 18px;
   font-weight: bold;
   margin: 5px;
   padding: 0;
