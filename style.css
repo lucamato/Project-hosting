@@ -11,6 +11,8 @@
   font-family: Calibri;
   font-size: 18px;
   font-weight: bold;
+  height: 400px;
+ background-position: center center;
 }
 
 a { color: inherit; }
@@ -25,4 +27,6 @@ h2 {
 
 footer {
   background-image: url(https://lartediguardarelarte.altervista.org/wp-content/uploads/2018/11/tetto_cappella_palatina.jpg)
+  height: 400px;
+ background-position: center center;
 }
