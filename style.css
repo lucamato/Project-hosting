@@ -18,7 +18,7 @@ header {
   margin: 20px 40px;
 }
 
-.nav li{
+.nav li a{
   display: inline;
   font-size: 26px;
   font-weight: bold;
