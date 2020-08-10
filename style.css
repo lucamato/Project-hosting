@@ -2,7 +2,6 @@
 
 * {
   font-size: 16px;
-  background-color: rgba(234,231,220,0.25);
   color:rgb(43,56,86)
 }
 
@@ -12,12 +11,15 @@ a {
 }
 
 header {
-  display: inline;
   background-image: url(https://i.pinimg.com/originals/35/05/59/350559063780ae16ceab968b1d68fa4d.jpg);
+  background-color: rgba(234,231,220,0.25);
   padding: 20px;
   margin: 20px 40px;
 }
-/* Footer */
+
+.nav{
+  display: inline;
+}
 
 footer {
   background-image: url(https://lartediguardarelarte.altervista.org/wp-content/uploads/2018/11/tetto_cappella_palatina.jpg);
