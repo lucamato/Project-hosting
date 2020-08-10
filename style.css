@@ -13,12 +13,15 @@ a {
 header {
   background-image: url(https://i.pinimg.com/originals/35/05/59/350559063780ae16ceab968b1d68fa4d.jpg);
   background-color: rgba(234,231,220,0.25);
+  background-size: 855px 577px;
   padding: 20px;
   margin: 20px 40px;
 }
 
 .nav{
   display: inline;
+  font-size: 26px;
+  font-weight: bold;
 }
 
 footer {
