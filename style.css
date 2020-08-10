@@ -14,11 +14,23 @@ a {
 header {
   display: inline;
   align-items: center;
-  padding: .5rem 3.75rem;
+  background-image: url(https://i.pinimg.com/originals/35/05/59/350559063780ae16ceab968b1d68fa4d.jpg);
+  padding: 20px;
+  margin: 20px 40px;
+}
+
+header {
+  background-image: url(https://i.pinimg.com/originals/35/05/59/350559063780ae16ceab968b1d68fa4d.jpg);
+  padding: 20px;
+  margin: 20px 40px;
+}
+
+header ul li{
+  display: inline;
 }
 /* Footer */
 
 footer {
-  background-image: url(https://lartediguardarelarte.altervista.org/wp-content/uploads/2018/11/tetto_cappella_palatina.jpg)
+  background-image: url(https://lartediguardarelarte.altervista.org/wp-content/uploads/2018/11/tetto_cappella_palatina.jpg);
   height: 400px;
 }
