@@ -1,6 +1,6 @@
 /* Universal Styles */
 
-html {
+* {
   font-size: 16px;
   background-color: rgba(234,231,220,0.25);
   color:rgb(43,56,86)
@@ -17,16 +17,6 @@ header {
   background-image: url(https://i.pinimg.com/originals/35/05/59/350559063780ae16ceab968b1d68fa4d.jpg);
   padding: 20px;
   margin: 20px 40px;
-}
-
-header {
-  background-image: url(https://i.pinimg.com/originals/35/05/59/350559063780ae16ceab968b1d68fa4d.jpg);
-  padding: 20px;
-  margin: 20px 40px;
-}
-
-header ul li{
-  display: inline;
 }
 /* Footer */
 
