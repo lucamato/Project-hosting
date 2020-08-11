@@ -2,7 +2,8 @@
 
 * {
   font-size: 16px;
-  color:rgb(43,56,86)
+  color:rgb(43,56,86);
+  box-sizing: border-box;
 }
 
 a {
@@ -12,11 +13,13 @@ a {
 
 header {
   background-image: url(https://i.pinimg.com/originals/35/05/59/350559063780ae16ceab968b1d68fa4d.jpg);
+  padding: 20px;
+  margin: 20px 40px;
 }
 
 .layer {
   background-color: rgba(234,231,220,0.50);
-  position: absolute;
+  position: relative;
   top: 0;
   width: 100%;
   height: 100%;
@@ -25,8 +28,7 @@ header {
 
 nav li{
   display: inline-block;
-  padding: 20px;
-  margin: 40px 40px;
+  margin-right: 20px;
 }
 
 footer {
