@@ -15,8 +15,12 @@
     font-size:40px;
 }
 .welcome{
-  background-image: url(https://potomac.edu/wp-content/uploads/2018/08/Washington-Dc-By-Night.jpg);
+  background-image: image(./DC.jpg);
   vertical-align: middle;
+}
+
+.welcome h2{
+
 }
 
 a {
