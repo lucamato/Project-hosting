@@ -15,7 +15,7 @@
     font-size:40px;
 }
 .welcome{
-  background-image: image(./DC.jpg);
+  background-image: url(https://raw.githubusercontent.com/lucamato/Project-hosting/master/DC.jpg);
   vertical-align: middle;
   filter: sepia(50%);
   background-position: 50% 50% ;
