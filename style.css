@@ -17,10 +17,18 @@
 .welcome{
   background-image: image(./DC.jpg);
   vertical-align: middle;
+  filter: sepia(50%);
+  background-position: 50% 50% ;
+  background-size: 100%;
+  background-color: transparent;
+  background-size: cover;
 }
 
 .welcome h2{
-
+    height: 750px;
+    padding-left: 50%;
+    padding-top: 25%;
+    color: white;
 }
 
 a {
