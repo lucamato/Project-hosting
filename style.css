@@ -1,10 +1,21 @@
-/* Universal Styles */
 
 * {
   font-size: 16px;
   color:rgb(43,56,86);
   box-sizing: border-box;
   font-family: sans-serif;
+}
+
+.Luca {
+    font-family: "Open Sans" !important;
+    text-transform: uppercase !important;
+    letter-spacing: 5px !important;
+    display: block;
+    max-width: 500px;
+}
+.welcome{
+  background-image: url(https://potomac.edu/wp-content/uploads/2018/08/Washington-Dc-By-Night.jpg);
+  vertical-align: middle;
 }
 
 a {
