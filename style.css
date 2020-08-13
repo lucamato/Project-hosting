@@ -9,10 +9,13 @@
 a {
   text-decoration: none;
   color: inherit;
+  font-size: 26px;
+  font-weight:bolder;
 }
 
 header {
   background-image: url(https://i.pinimg.com/originals/35/05/59/350559063780ae16ceab968b1d68fa4d.jpg);
+  height: 100px;
 }
 
 .layer {
@@ -30,7 +33,7 @@ nav li{
   display: inline-block;
   margin-right: 20px;
   padding: 20px;
-  margin: 20px 40px;
+  margin: 10px 40px;
 }
 
 .body{
@@ -38,8 +41,16 @@ nav li{
   padding-right: 500px;
 }
 
+footer h4 {
+  padding: 0, auto;
+  margin-left: 351px;
+  margin-right: 351px;
+}
+
 footer {
-  margin-top: 500px;
-  background-image: url(https://lartediguardarelarte.altervista.org/wp-content/uploads/2018/11/tetto_cappella_palatina.jpg);
+  margin-top: 1000px;
+  background-image: url(https://images.pexels.com/photos/1484759/pexels-photo-1484759.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260);
   height: 120px;
+  width:auto;
+
 }
