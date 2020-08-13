@@ -1,9 +1,9 @@
 
 * {
   font-size: 16px;
-  color:rgb(43,56,86);
+  color: black;
   box-sizing: border-box;
-  font-family: sans-serif;
+  font-family: "Open Sans";
 }
 
 .Luca {
@@ -12,6 +12,7 @@
     letter-spacing: 5px !important;
     display: block;
     max-width: 500px;
+    font-size:40px;
 }
 .welcome{
   background-image: url(https://potomac.edu/wp-content/uploads/2018/08/Washington-Dc-By-Night.jpg);
@@ -21,19 +22,16 @@
 a {
   text-decoration: none;
   color: inherit;
-  font-size: 22px;
+  font-size: 10px;
   font-weight:bolder;
 }
 
 .layer {
-  background-color: rgba(234,231,220,0.70);
   position: relative;
   top: 0;
   width: 100%;
   height: 100%;
   left: 0;
-  border-bottom-style: solid;
-  border-bottom-width: 15px;
 }
 
 nav li{
